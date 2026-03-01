@@ -18,11 +18,3 @@ created: 2026-02-28
 Buy groceries.
 
 ## Notes
-
-## Change Log
-
--------------
-Date: 2026-02-28
-Before: `tags: "[groceries, errand]"`
-After: `tags: "[shopping, errands]"`
-=============
