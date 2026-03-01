@@ -9,13 +9,20 @@ status: pending
 linked_people: []
 linked_projects: []
 linked_ideas: []
-tags: [shopping, errands]
+tags: []
 created: 2026-02-28
 ---
 
 ## Description
 
-Buy groceries.
+Buy groceries
 
 ## Notes
 
+## Change Log
+
+-------------
+Date: 2026-02-28
+Before: `tags: "[shopping, errands]"`
+After: `tags: "[]"`
+=============
