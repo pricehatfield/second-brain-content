@@ -15,6 +15,7 @@ created: 2026-03-02
 
 ## Description
 
-Buy groceries
+Buy groceries.
 
 ## Notes
+
