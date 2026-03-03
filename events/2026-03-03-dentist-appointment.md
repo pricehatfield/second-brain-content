@@ -9,13 +9,13 @@ status: pending
 linked_people: []
 linked_projects: []
 linked_ideas: []
-tags: [health, appointment]
+tags: []
 created: 2026-03-02
 ---
 
 ## Description
 
-Dentist appointment scheduled for tomorrow morning.
+Dentist appointment tomorrow morning.
 
 ## Notes
 
@@ -23,6 +23,6 @@ Dentist appointment scheduled for tomorrow morning.
 
 -------------
 Date: 2026-03-02
-Before: `tags: "[]"`
-After: `tags: "[health, appointment]"`
+Before: `tags: "[health, appointment]"`
+After: `tags: "[]"`
 =============
