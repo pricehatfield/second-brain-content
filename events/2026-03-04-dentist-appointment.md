@@ -15,6 +15,6 @@ created: 2026-03-03
 
 ## Description
 
-Dentist appointment scheduled for tomorrow morning.
+Dentist appointment scheduled for morning.
 
 ## Notes
