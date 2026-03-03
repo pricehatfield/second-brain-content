@@ -1,6 +1,6 @@
 ---
 type: event
-title: "Dentist Appointment"
+title: "Dentist appointment"
 context: personal
 start_date: 2026-03-04
 due_date: 2026-03-04
@@ -9,13 +9,13 @@ status: pending
 linked_people: []
 linked_projects: []
 linked_ideas: []
-tags: [health]
+tags: [health, medical]
 created: 2026-03-03
 ---
 
 ## Description
 
-Dentist appointment.
+Dentist appointment scheduled for tomorrow morning.
 
 ## Notes
 
@@ -23,6 +23,11 @@ Dentist appointment.
 
 -------------
 Date: 2026-03-03
-Before: `tags: "[health, appointment]"`
-After: `tags: "[health]"`
+Before: `title: "Dentist Appointment"`
+After: `title: "Dentist appointment"`
+=============
+-------------
+Date: 2026-03-03
+Before: `tags: "[health]"`
+After: `tags: "[health, medical]"`
 =============
