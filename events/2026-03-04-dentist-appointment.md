@@ -9,7 +9,7 @@ status: pending
 linked_people: []
 linked_projects: []
 linked_ideas: []
-tags: [healthcare]
+tags: [healthcare, appointment]
 created: 2026-03-03
 ---
 
@@ -23,11 +23,6 @@ Dentist appointment scheduled for tomorrow morning.
 
 -------------
 Date: 2026-03-03
-Before: `title: "Dentist appointment"`
-After: `title: "Dentist Appointment"`
-=============
--------------
-Date: 2026-03-03
-Before: `tags: "[health, appointment]"`
-After: `tags: "[healthcare]"`
+Before: `tags: "[healthcare]"`
+After: `tags: "[healthcare, appointment]"`
 =============
