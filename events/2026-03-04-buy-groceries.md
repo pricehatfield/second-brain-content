@@ -1,6 +1,6 @@
 ---
 type: event
-title: Buy groceries
+title: "Buy groceries"
 context: personal
 start_date: 2026-03-04
 due_date: 2026-03-04
@@ -15,14 +15,7 @@ created: 2026-03-03
 
 ## Description
 
-Buy groceries.
+Buy groceries
 
 ## Notes
 
-## Change Log
-
--------------
-Date: 2026-03-03
-Before: `tags: "[errand, shopping]"`
-After: `tags: "[]"`
-=============
