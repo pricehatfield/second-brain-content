@@ -1,21 +1,27 @@
 ---
 type: log
-log_category: saboteur
+title: Saboteur Log
+category: saboteur
 context: work
 created: 2026-02-27
+last_entry: 2026-02-27
+entry_count: 1
 linked_people: []
 linked_projects: []
-linked_events: []
 linked_ideas: []
-tags: [team-dynamics, technical-leadership, skill-gaps]
+tags: ["technical-debt", "team-dynamics", "skill-gaps"]
 ---
 
-## Notes
+## Entries
 
-Jumped into research & fix mode today like an IC when an environment test for Sagemaker was misbehaving. Other ICs appreciated it, but this approach doesn't train them to diagnose issues, collaborate with the client, or get the client to fix drift between environments.
+---
+**2026-02-27**
+IC research & fix mode on Sagemaker environment test misbehavior; identified systemic team coverage problems
 
-Director-level data engineer is still getting his head around the different layers of abstraction involved and had trouble following the technical details.
+Jumped into research & fix mode today like an IC when an environment test for Sagemaker was misbehaving. Other ICs appreciated the help, but it's not training them to diagnose, collaborate with the client, and get the client to fix the drift between environments. Director-level data engineer struggled to follow the different layers of abstraction involved.
 
-Started the day with a pathing mismatch resulting from different IDE versions. Did quick research and created a hardened function to derive the base path for references. Later got pulled into another issue where containers couldn't reach the public web.
+Started the day with a pathing mismatch caused by different IDE versions. Did quick research and created a hardened function to derive the base path for references. Later got pulled into another issue where containers couldn't reach the public web.
 
-Observed out loud that our small teams are having coverage problems — everyone is overspecialized in their particular function and can't move each others' work forward.
+Observed that small teams are having coverage problems where everyone is overspecialized in their particular function and can't move each others' work.
+
+---
