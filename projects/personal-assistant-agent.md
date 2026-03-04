@@ -30,3 +30,5 @@ Downstream project to build a personal assistant agent with tool exposure for em
 ## Notes
 
 **2026-02-28**: Moving to a knowledge graph is a pre-requisite to this project, especially for managing tool exposure risks. Calendar integration may be more immediately helpful for events and should be prioritized. Approach should remain granular, responding to observations surfaced from second-brain implementation.
+
+**2026-02-28**: Knowledge graph will be pre-req to personal assistant agent and any tool exposure risks with email, calendar, etc. Should approach more granularly as observations about second-brain surface. Calendar integration might be more immediately helpful for events as an example.
