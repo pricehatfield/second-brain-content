@@ -1,6 +1,6 @@
 ---
 type: event
-title: "Buy groceries"
+title: Buy groceries
 context: personal
 start_date: 2026-03-04
 due_date: 2026-03-04
@@ -9,7 +9,7 @@ status: pending
 linked_people: []
 linked_projects: []
 linked_ideas: []
-tags: [errand, shopping]
+tags: []
 created: 2026-03-03
 ---
 
@@ -23,6 +23,6 @@ Buy groceries.
 
 -------------
 Date: 2026-03-03
-Before: `tags: "[shopping, errands]"`
-After: `tags: "[errand, shopping]"`
+Before: `tags: "[errand, shopping]"`
+After: `tags: "[]"`
 =============
