@@ -29,3 +29,5 @@ Ongoing product development for a second-brain system. Currently focused on self
 ## Notes
 
 **2026-02-28**: Project is progressing. Initial assumption: this may serve as the bronze medallion layer, with curation happening downstream. Need to validate whether org-based boundaries only require node-distance soft boundaries (no supporting vector) for domain-specialist agents.
+
+**2026-02-28**: Project coming along with self-recording focus. Considering whether this serves as bronze medallion with downstream curation. Key architectural question: do org-based boundaries only need node-distance soft boundary (no supporting vector) for domain-specialist agents? This needs validation in practice.
