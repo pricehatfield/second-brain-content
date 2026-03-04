@@ -20,4 +20,3 @@ Migraine experienced
 
 Had a migraine today.
 
----
