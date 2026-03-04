@@ -30,3 +30,5 @@ Technical evaluation to compare current system against a more durable knowledge 
 ## Notes
 
 **2026-02-28**: Initiated as a gap analysis to inform system durability. This evaluation is a pre-requisite for the personal assistant agent project, particularly for tool exposure risks with email and calendar integration.
+
+**2026-02-28**: Gap analysis needed for more durable knowledge graph system for storage and retrieval. Core questions: how will graph database and vector database complement one another? Does initial assumption about org-based boundaries only needing node-distance soft boundary (no supporting vector) for domain-specialist agents hold true in practice? Maybe second-brain is just the bronze medallion and we curate from there?
