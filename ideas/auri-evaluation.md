@@ -28,3 +28,5 @@ Relevance to existing projects:
 - **Second-Brain**: AURI may inform knowledge capture/automation layer architecture
 - **Personal Assistant Agent**: Potential integration with agent tooling or API surface
 - **Knowledge Graph Gap Analysis**: Comparative technical evaluation for personal system architecture
+
+**2026-03-06**: Review for applicability/contrast in home project framework (adversarial ARB, team dispatch ICs, etc). Competitive Dominator GitHub repository: https://github.com/ankitjha67/competitive-dominator
